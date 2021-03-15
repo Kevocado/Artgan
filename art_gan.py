@@ -7,7 +7,6 @@ import numpy as np
 from PIL import Image
 import os
 
-
 # Preview image Frame
 PREVIEW_ROWS = 4
 PREVIEW_COLS = 7
