@@ -144,4 +144,4 @@ if epoch % SAVE_FREQ == 0:
  
    print(f'{epoch} epoch, Discriminator accuracy: {100*  discriminator_metric[1]}, Generator accuracy: {100 * generator_metric[1]}')
 
-  
+  #Spell run python art_gan.py -t V100 -m uploads/dataset/cubism.npy
